@@ -15,3 +15,6 @@ Data Encryption and Verification Application
 - [x] Currently, DEVA excels at decrypting text-based files, but don't worry, I'm diligently working on expanding its capabilities to cater to different types of files. Stay tuned for more updates! 🚀📁
 
 - 🤗I am inviting each one of you to take a spin on DEVA and share your invaluable feedback. Your insights can help make DEVA even better!
+
+
+#  ⚠️<span style="color:red">DO NOT DOWNLOAD SINGLE FILES AS RAW FILES. DOWNLOAD THE WHOLE PROJECT FILES AS AN ZIP FILE</span>
